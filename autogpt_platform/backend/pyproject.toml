@@ -65,7 +65,7 @@ youtube-transcript-api = "^0.6.2"
 [tool.poetry.group.dev.dependencies]
 aiohappyeyeballs = "^2.4.4"
 black = "^24.10.0"
-faker = "^33.3.1"
+faker = "^36.1.0"
 httpx = "^0.27.0"
 isort = "^5.13.2"
 poethepoet = "^0.32.1"
